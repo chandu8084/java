@@ -1,0 +1,17 @@
+class squre
+{
+public static void mian(String args[])
+{
+int a=9,b=16;
+if(a>b)
+{
+a=a*b;
+System.out.pritln("a");
+}
+else
+{
+b=b*b;
+Syatem.out.println("b");
+}
+}
+}
